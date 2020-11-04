@@ -1,10 +1,3 @@
-"""
-Fundamentos de Robotica 2019-1 - UTEC
-Prof. Oscar E. Ramos
-File: markers.py
-
-"""
-
 from visualization_msgs.msg import Marker
 import numpy as np
 import rospy
