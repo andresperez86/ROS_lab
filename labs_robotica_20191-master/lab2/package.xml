@@ -4,7 +4,7 @@
   <version>0.0.0</version>
   <description>Lab 2</description>
 
-  <maintainer email="oramos@todo.todo">oramos</maintainer>
+  <maintainer email="andresPerez@todo.todo">aperez</maintainer>
   <license>TODO</license>
 
   <buildtool_depend>catkin</buildtool_depend>
